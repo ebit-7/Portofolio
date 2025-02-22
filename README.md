@@ -2,7 +2,7 @@
 Biodata Diri
 
 
-*Halo semua!* 
+**Halo semua!**
 
 Perkenalkan nama saya **Muhammad Ebit Pangestu**.<br>
 
